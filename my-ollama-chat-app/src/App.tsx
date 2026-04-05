@@ -15,7 +15,7 @@ const App = () => {
     {
       id: '1',
       role: 'assistant',
-      content: 'Hello! I\'m your Ollama assistant. How can I help you today?',
+      content: 'Hello! I\'m your ShetaGPT. How can I help you today?',
       timestamp: new Date()
     }
   ]);
