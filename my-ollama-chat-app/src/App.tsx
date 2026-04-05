@@ -126,7 +126,7 @@ const data = await response.json()
           fontSize: '24px',
           margin: '0'
         }
-      }, 'Ollama Chat'),
+      }, 'SheataGPT'),
       React.createElement('div', {
         style: { display: 'flex', alignItems: 'center', gap: '8px' }
       },
